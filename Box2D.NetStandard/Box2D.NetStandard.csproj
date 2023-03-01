@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Collision\Shapes\" />
+    <Folder Include="Dynamics\Contacts\" />
+    <Folder Include="Dynamics\Controllers\" />
+    <Folder Include="Dynamics\Joints\" />
+  </ItemGroup>
+
+</Project>

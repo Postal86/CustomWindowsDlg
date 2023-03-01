@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopyPasteCustomizedDialogWindow", "CopyPasteCustomizedDialogWindow\CopyPasteCustomizedDialogWindow.csproj", "{CF127A9F-689C-4B43-A62D-E9FA1B5A619C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Box2D.NetStandard", "Box2D.NetStandard\Box2D.NetStandard.csproj", "{6D007B53-9963-4759-850C-F773083E5797}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF127A9F-689C-4B43-A62D-E9FA1B5A619C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF127A9F-689C-4B43-A62D-E9FA1B5A619C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF127A9F-689C-4B43-A62D-E9FA1B5A619C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF127A9F-689C-4B43-A62D-E9FA1B5A619C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D007B53-9963-4759-850C-F773083E5797}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D007B53-9963-4759-850C-F773083E5797}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D007B53-9963-4759-850C-F773083E5797}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D007B53-9963-4759-850C-F773083E5797}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEF0503C-87B2-4CF0-94B4-EBEBCBA8EA97}
+	EndGlobalSection
+EndGlobal
